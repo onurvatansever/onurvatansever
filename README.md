@@ -12,8 +12,7 @@
 
 ## GitHub İstatistiklerim
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=onurvatansever)](https://github.com/stats-organization/github-stats-extended)  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=onurvatansever&langs_count=6&display_format=percent)](https://wakatime.com/@onurvatansever)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)  
 ![GitHub followers](https://img.shields.io/github/followers/onurvatansever?label=Takip%C3%A7i&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/onurvatansever?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 ![Repo count](https://img.shields.io/badge/repo%20sayısı-10-blue)
