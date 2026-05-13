@@ -13,7 +13,6 @@
 ## GitHub İstatistiklerim
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=onurvatansever&layout=donut&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=onurvatansever&layout=donut&langs_count=4&theme=dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=onurvatansever&langs_count=6&theme=dark)](https://wakatime.com/@onurvatansever)  
 ![GitHub followers](https://img.shields.io/github/followers/onurvatansever?label=Takip%C3%A7i&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/onurvatansever?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
