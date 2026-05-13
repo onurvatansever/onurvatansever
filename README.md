@@ -1,4 +1,4 @@
-# Merhaba, ben Onur! 👋
+# Merhaba, ben Onur!
 
 ## Hakkımda
 - Teknoloji tutkunu.
@@ -8,12 +8,12 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=flat&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5e5e5e?style=flat&logo=json&logoColor=white)
+![CSV](https://img.shields.io/badge/csv-%23E34F26.svg?style=flat&logo=csv&logoColor=white)
 ## GitHub İstatistiklerim
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=onurvatansever&langs_count=6&theme=dark)](https://wakatime.com/@onurvatansever)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=onurvatansever&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)  
 ![GitHub followers](https://img.shields.io/github/followers/onurvatansever?label=Takip%C3%A7i&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/onurvatansever?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 ![Repo count](https://img.shields.io/badge/repo%20sayısı-10-blue)
