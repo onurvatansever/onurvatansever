@@ -1,6 +1,3 @@
-# Merhaba, ben Onur!
-
-## Hakkımda
 - Teknoloji tutkunu.
 - Veri biliminde ilerlemeye çalışıyorum.
 
