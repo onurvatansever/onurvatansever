@@ -14,5 +14,5 @@
 
 ## Bana ulaşın:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-vatansever88)
-[![E-posta](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:onurvatansever44@gmail.com)
+[![E-posta](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oonurhp@gmail.com)
 ---
