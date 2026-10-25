@@ -1,33 +1,29 @@
-# Hi, I'm Onur Vatansever  
+# Onur Vatansever
 
-Student interested in Data Engineering, Machine Learning and AI.
+Building **serverless data & computer vision pipelines**, **applied ML systems**, and **developer tools**.  
+Currently studying at Anadolu University, focusing on Data Engineering and Machine Learning in production.
 
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-### Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-vatansever88)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oonurhp@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1064932170596106370)
 
 ---
 
-## Connect with me
+### Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/onur-vatansever88)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oonurhp@gmail.com)
-<a href="https://discord.com/users/1064932170596106370">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
+- **[carvo-plate-tracker](https://github.com/onurvatansever/carvo-plate-tracker)** — **Serverless Fleet ALPR & Tracking Pipeline**  
+  Production Telegram bot & OCR pipeline built for fleet car wash operations. Uses **AWS Lambda**, **Amazon Rekognition**, **S3**, custom confusion-matrix fuzzy matching for Turkish license plates, and zero-dependency `.xlsx` reporting.
+- **[btk-datathon](https://github.com/onurvatansever/btk-datathon)** — **End-to-End Tabular + NLP Stacking Pipeline**  
+  Leak-free competitive ML pipeline combining Turkish BERT embeddings (`SentenceTransformers` + Ridge OOF features) with native categorical **CatBoost**, **LightGBM**, and **XGBoost** ensembles.
+- **[bettermedium](https://github.com/onurvatansever/bettermedium)** — **Firefox Extension ([Live on Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/bettermedium/))**  
+  Browser extension that parses Medium Daily Digest emails in Gmail to surface public articles and author-shared Friend Links.
+- **[ab-test-analysis](https://github.com/onurvatansever/ab-test-analysis)** — **Statistical Conversion Analysis**  
+  Hypothesis testing and data cleaning workflow evaluating landing page conversion lift.
 
+---
+
+### Tech Stack & Tools
+
+- **Languages:** Python, SQL, JavaScript
+- **Machine Learning & NLP:** LightGBM, CatBoost, XGBoost, Scikit-Learn, SentenceTransformers (BERT), Pandas, NumPy
+- **Cloud & Infrastructure:** AWS (Lambda, S3, Rekognition), Docker, GitHub Actions (CI/CD), Linux, Git
